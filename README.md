@@ -20,9 +20,9 @@ Each repo has tests, CI and documentation. The numbers are measured results repo
 More: [PDF chatbot with a local LLM](https://github.com/MuhammadAhmadRajpoot/PDF-AI-Chatbot-with-Local-LLM) · [PaddyCare AI](https://github.com/MuhammadAhmadRajpoot/PaddyCare-AI) · [Face Mask Detection](https://github.com/MuhammadAhmadRajpoot/Face-Mask-Detection)
 
 ### Tech I work with
-**LLMs & agents:** LangChain · LangGraph · CrewAI · LlamaIndex · MCP · RAG · Qdrant · ChromaDB
-**ML & vision:** PyTorch · TensorFlow · Scikit-learn · OpenCV · YOLO · MediaPipe · ONNX Runtime · OCR
-**Backend & MLOps:** Python · FastAPI · Flask · Django · Docker · GitHub Actions · AWS · GCP · Azure · SQL
+- **LLMs & agents:** LangChain · LangGraph · CrewAI · LlamaIndex · MCP · RAG · Qdrant · ChromaDB
+- **ML & vision:** PyTorch · TensorFlow · Scikit-learn · OpenCV · YOLO · MediaPipe · ONNX Runtime · OCR
+- **Backend & MLOps:** Python · FastAPI · Flask · Django · Docker · GitHub Actions · AWS · GCP · Azure · SQL
 
 ### Currently
 AI/ML Engineer at **Arhamsoft (Pvt) Ltd** since April 2022, delivering object detection, OCR, speech/image-to-video generation, RAG and multi-agent systems.
